@@ -7,7 +7,7 @@ Your solution should be a script that can be run like this:
 python3 predict.py input.csv
 ```
 
-Where `input.csv` will be the final verification file that contains only the first three columns. The script should output the fourth column in the same order as the inputs.
+Where `input.csv` will be the final verification file that contains only the first four columns. The script should output the fourth column in the same order as the inputs.
 
 
 Good luck!
