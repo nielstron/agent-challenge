@@ -1,6 +1,6 @@
 ## Challenge
 
-In this folder you find `train.csv` and `val.csv`. Your task is simple: Produce a good model of the last column based on the first three columns.
+In this folder you find `train.csv` and `val.csv`. Your task is simple: Produce a good model of the last column based on the first four columns.
 Your solution should be a script that can be run like this:
 
 ```python
